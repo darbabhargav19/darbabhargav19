@@ -64,7 +64,7 @@
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/darbabhargav19/darbabhargav19/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/darbabhargav19/darbabhargav19/gh-pages/github-contribution-grid-snake.svg" />
 </p>
 ---
 
