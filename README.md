@@ -7,7 +7,8 @@
 ## 🧠 About Me
 - 🔭 Currently building Python projects
 - 🌱 Learning Software Development with Python
-- 💡 Interested in Embedded Systems & IoT
+- 💡 Interested in Software Development & Embedded Systems, IoT
+- 🚀 Open to opportunities in Software & Embedded domains
 - 📫 Reach me at: darbabhargav19@gmail.com
 - 📍 Tirupati, Andhra Pradesh
 
