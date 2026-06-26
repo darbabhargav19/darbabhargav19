@@ -64,7 +64,7 @@
 
 ## 🔥 Contribution Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=darbabhargav19&theme=radical&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/darbabhargav19/darbabhargav19/gh-pages/github-contribution-grid-snake.svg?palette=github-dark"/>
 </p>
 ---
 
