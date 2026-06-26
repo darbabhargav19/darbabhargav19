@@ -64,8 +64,16 @@
 
 ## 🔥 Contribution Activity
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=darbabhargav19&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+<p align="center">
   <img src="https://raw.githubusercontent.com/darbabhargav19/darbabhargav19/gh-pages/github-contribution-grid-snake.svg?palette=github-dark"/>
 </p>
+
 ---
 
 ## 🎯 Current Focus
@@ -82,13 +90,6 @@
 * Embedded Systems & IoT
 * Clean & Readable Code
 * Quick Learner & Team Player
-
----
-
-## 🐍 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/darbabhargav19/darbabhargav19/gh-pages/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
