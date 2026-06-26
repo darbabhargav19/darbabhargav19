@@ -88,10 +88,7 @@
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darbabhargav19/darbabhargav19/gh-pages/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/darbabhargav19/darbabhargav19/gh-pages/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/darbabhargav19/darbabhargav19/gh-pages/github-contribution-grid-snake.svg" />
 </p>
 
 ---
