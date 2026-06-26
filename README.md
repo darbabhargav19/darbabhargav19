@@ -86,4 +86,14 @@
 
 ---
 
+## 🐍 Contribution Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darbabhargav19/darbabhargav19/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/darbabhargav19/darbabhargav19/gh-pages/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 <p align="center">⭐ <b>Building projects — one commit at a time.</b></p>
